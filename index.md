@@ -1,12 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/allahuphetic/https-www.DacoChad.Github.Io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1 way that you can install arceus x on pc is you can install bluestacks 5!
+Whenever installing arceus x its only a MOBILE exploit so dont try installing it on pc!
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Arceus x is an advanced mod menu for android roblox exploiter || starters!
 
 ```markdown
 Syntax highlighted code block
@@ -22,16 +21,14 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+(https://discord.gg/mMY4NpNQ) <<----
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+Want arceus x scripts then https://discord.gg/mMY4NpNQ
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allahuphetic/https-www.DacoChad.Github.Io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Daco is epic : )
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Daco is epic chad and you are a starter chad!
